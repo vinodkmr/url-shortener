@@ -1,0 +1,6 @@
+//Telegram Bot Properties goes here
+app:
+  config:
+    botToken: ""
+    botName: ""
+    domain: ""
